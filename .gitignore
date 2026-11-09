@@ -1,0 +1,21 @@
+# 本地配置（含 API 密钥，请勿提交）
+translator_config.json
+
+# 构建产物
+*.exe
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# IDE / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

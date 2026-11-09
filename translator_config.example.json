@@ -1,0 +1,21 @@
+{
+  "provider": "google",
+  "deepl": {
+    "api_key": ""
+  },
+  "baidu": {
+    "app_id": "",
+    "app_key": ""
+  },
+  "youdao": {
+    "app_id": "",
+    "app_key": ""
+  },
+  "target_lang": "zh",
+  "dark_mode": false,
+  "hotkey": {
+    "modifiers": ["ctrl"],
+    "key": "t"
+  },
+  "smart_mode": true
+}
